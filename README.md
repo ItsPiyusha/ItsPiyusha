@@ -1,4 +1,10 @@
 ### Hi there 👋
+🌱 I’m currently learning JAVA.I know CPP and some other technologies but I don't have much experience so I'm looking for new projects and opportunities to dive into real coding.
+🤔 I’m looking for help with project ideas on java so that I can get started with it by building a nice project.
+👯 I’m looking to collaborate on any software project with latest technologies.
+📫 How to reach me:
+GMAIL--pawarpiyusha1306@gmail.com
+⚡ Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?! Let's change the world by coding😉🤩
 
 <!--
 **ItsPiyusha/ItsPiyusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
