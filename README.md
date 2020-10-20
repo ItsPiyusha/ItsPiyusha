@@ -1,4 +1,4 @@
-### Hi there, I'm Piyusha  👋
+### Hi there, I'm Piyusha from India 👋
 🌱 I’m currently learning JAVA.I know CPP and some other technologies but I don't have much experience so I'm looking for new projects and opportunities to dive into real coding.
 🤔 I’m looking for help with project ideas on java so that I can get started with it by building a nice project.
 👯 I’m looking to collaborate on any software project with latest technologies.
