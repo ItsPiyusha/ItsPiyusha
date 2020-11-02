@@ -5,6 +5,8 @@
 📫 How to reach me:
 GMAIL--pawarpiyusha1306@gmail.com
 Snapchat--piyusha_pawar
+Linked In --  www.linkedin.com/in/piyusha-pawar
+twitter -- https://twitter.com/PawarPiyusha
 ⚡ Fun fact: Almost any powered with electricity needs to be coded. Can you imagine?! Let's change the world by coding😉🤩
 
 <!--
