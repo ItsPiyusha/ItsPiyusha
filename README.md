@@ -1,5 +1,5 @@
 
-![Piyusha Title](https://github.com/ItsPiyusha/ItsPiyusha/blob/master/github-3.jpeg)
+![Piyusha Title](https://github.com/ItsPiyusha/ItsPiyusha/blob/master/github-4.jpeg)
 I’m currently working professional as a data analyst in United Health Group.<br> 
 But looking for a new job as a data scientist and pursuing data science courses. <br>
 I'd Love to collaborate on any software project with latest technologies. <br>
