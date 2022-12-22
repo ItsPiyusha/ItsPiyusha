@@ -4,4 +4,4 @@ I’m currently working professional as a data analyst in United Health Group.<b
 But looking for a new job as a data scientist and pursuing data science courses. <br>
 I'd Love to collaborate on any software project with latest technologies. <br>
 How to reach me: <br>
-Linked In --  www.linkedin.com/in/piyusha-pawar <br>
+[Linked In](www.linkedin.com/in/piyusha-pawar) <br>
