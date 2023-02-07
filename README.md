@@ -1,5 +1,5 @@
 
-![Piyusha Title](https://github.com/ItsPiyusha/ItsPiyusha/blob/master/piyusha.jpeg)
+![Piyusha Title](https://github.com/ItsPiyusha/ItsPiyusha/blob/master/assets/piyu-logo.png)
 <br>
 <br>
 #### ✨I’m currently working professional as a data analyst in United Health Group.<br> 
