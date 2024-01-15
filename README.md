@@ -7,5 +7,5 @@
 #### 🥳I'd Love to collaborate on any software project with latest technologies. <br>
 #### 🌱 My Favourite motto in life is to create INTENSITY without INTENT!
 #### How to reach me: <br>
-[Linked In](www.linkedin.com/in/piyusha-pawar) <br>
+
 [Gmail](piyushavpawar@gmail.com) <br>
