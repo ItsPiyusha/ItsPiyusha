@@ -4,6 +4,10 @@
 ```text
 “तुमचा रियाज ठरवतो तुमचा दर्जा.”
 ```
+Means
+```text
+“Your practice defines your stature.”
+```
 Hi, I'm Piyusha 👋
   
 Software Engineer with 5+ years of experience building scalable web applications and cloud-based solutions using React, Node.js, GenAI, and modern cloud technologies.
