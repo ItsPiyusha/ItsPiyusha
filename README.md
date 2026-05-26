@@ -1,5 +1,9 @@
 
 ![Piyusha Title](https://github.com/ItsPiyusha/ItsPiyusha/blob/master/assets/piyu-logo.png)
+
+```text
+“तुमचा रियाज ठरवतो तुमचा दर्जा.”
+```
 Hi, I'm Piyusha 👋
   
 Software Engineer with 5+ years of experience building scalable web applications and cloud-based solutions using React, Node.js, GenAI, and modern cloud technologies.
